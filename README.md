@@ -1,1 +1,1 @@
-# SwipeDemo
+# SwipeDemo Colts Steeles Swipe demo was a great way to learn about heading, link, and body styles. Creating text classes and animated buttons. I built out a nav bar, defined a two-column layout, built a partners grid section, and a unified platform grid, photo grid, and reusable card classes. I learned how to add an animated gradient to the background and make sure the app is responsive. 
